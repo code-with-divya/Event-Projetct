@@ -1,0 +1,18 @@
+.logo{
+    height: 80px;
+    margin: 0 1070px 0 0;
+}
+.pagename{
+    color: white;
+}
+.hom{
+    height: 50px;
+    margin: 10px 10px 0 5px ;
+}
+.homm{
+    height: 60px;
+    margin: 5px 10px 0 5px;
+}
+.navbars{
+    position: fixed;
+}

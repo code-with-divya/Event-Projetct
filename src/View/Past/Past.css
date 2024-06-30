@@ -1,0 +1,56 @@
+.gredent{
+    background: rgb(17,168,236);
+    background: linear-gradient(95deg, rgba(17,168,236,1) 0%, rgba(87,213,242,1) 50%, rgba(128,230,240,1) 100%);
+    height: 400px;
+    width: 100%;
+    color: white;
+}
+.varch{
+    margin: -230px 0 0 200px;
+    font-size: 40pt;
+    font-weight: 700;
+    color: white;
+}
+.varchs{
+    color: white;
+    margin: 0 0 200PX 200px;
+}
+.cardinf{
+    display: flex;
+    justify-content: space-around;
+    height: auto;
+    width: 80%;
+    margin: 5% 10%;
+    
+}
+.caimg{
+    height: 250px;
+    width: 375px;
+    transition: 2s;
+    box-shadow: 4px 4px 6px 2px gray;
+}
+.caimg:hover{
+    transform: scale(1.1);
+    
+}
+.old{
+    color: gray;
+    margin: 50px 0 0 0;
+    margin-left: 20px;
+}
+.old1{
+    margin-left: 20px;
+
+}
+.diu{
+    margin-left: 20px;
+
+
+
+}
+.patti{
+    height: 250px;
+    width: 10px;
+    background: rgb(17,168,236);
+    background: linear-gradient(95deg, rgba(17,168,236,1) 0%, rgba(87,213,242,1) 50%, rgba(128,230,240,1) 100%); 
+}

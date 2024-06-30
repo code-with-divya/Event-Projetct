@@ -1,0 +1,93 @@
+/* .aro{
+   height: 700px;
+   width: 100%;
+    margin: -780px 0 0 0;
+} */
+.backe{
+    background-image: url('./Image/empty-meeting-room-office-600nw-2173235165.webp');
+    background-size: cover;
+    height: 650px;
+    width: 100%;
+}
+.logos{
+    margin: 150px 0 0 78%;
+    height: 150px;
+}
+.infs{
+    font-size: 250%;
+    color: white;
+    margin:0 0 0 75%;
+    font-family: Courier, monospace;
+}
+.infos{
+    text-align: center;
+    font-size: 200%;
+    color: white;
+    font-family: Courier, monospace;
+}
+.eventnames{
+    font-size: 700%;
+    margin: -150px 0 100px 0;
+    color:rgb(58, 137, 234);
+    text-align: center;
+    font-family: Times, "Times New Roman", Georgia, serif;
+}
+.car{
+    display: flex;
+    justify-content:space-evenly;
+   
+}
+.cars{
+    display: flex;
+    justify-content:space-evenly;
+    background: rgba(17, 167, 236, 0.112);
+background: linear-gradient(95deg, rgba(17, 167, 236, 0.233) 0%, rgba(87, 214, 242, 0.251) 50%, rgba(128, 231, 240, 0.274) 100%);
+    height: 320px;
+    width: 80%;
+    margin: 0% 10%;
+    padding: 50px;
+    border-radius: 5px;
+}
+.infcard{
+    height: 250px;
+    width: 500px;
+    background-color: white;
+    border: 2px solid rgb(39, 161, 237);
+    margin: 100px 0 0 0;
+    padding: 20px;
+    box-shadow: 4px 4px 6px 2px  rgb(22, 133, 201);
+}
+.sersolu{
+    height: 100px;
+    margin: 10px 40px;
+    color: white;
+}
+.backg{
+    font-size: 800%;
+    text-align: center;
+    color: rgba(120, 229, 232, 0.438);
+    margin: 50px 0 0 0;
+}
+.nat{
+    text-align: center;
+    color: rgb(34, 96, 189);
+    margin: -40px 0 0 0;
+    font-size: 400%;
+}
+.wit{
+    color: rgb(14, 0, 0);
+}
+.abo{
+    height: 60px;
+    width: 150px;
+    background: rgb(17,168,236);
+    background: linear-gradient(95deg, rgba(17,168,236,1) 0%, rgba(87,213,242,1) 50%, rgba(128,230,240,1) 100%);
+    border-radius: 10px;
+    margin:0 0 0 45%;
+    border: 1px solid rgb(39, 161, 237);
+    font-size: 20pt;
+    color: white;
+    font-weight: 500;
+    padding: 10px;
+    font-family: Times, "Times New Roman", Georgia, serif;
+}

@@ -1,0 +1,61 @@
+.foot{
+    height: 450px;
+    width: 100%;
+    display: flex;
+    margin: 50px 0 0 0;
+}
+.colo{
+    height: 450px;
+    width: 100%;
+    background: rgb(17,168,236);
+    background: linear-gradient(95deg, rgba(17,168,236,1) 0%, rgba(87,213,242,1) 50%, rgba(128,230,240,1) 100%);
+    
+    
+    font-family: Georgia, serif;
+}
+.colos{
+    height: 450px;
+    width: 100%;
+}
+.safed{
+    color: white;
+    margin: 180px 0 0 100px;
+}
+.safeds{
+    color: white;
+    margin: 10px 0 0 100px;
+}
+.fotimg{
+    height: 450px;
+    width: 100%;
+}
+.blacks{
+    height: 350px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    font-family: Georgia, serif;
+    text-align: center;
+}
+.logoss{
+    height: 100px;
+    margin: 0 0 0 20px;
+    
+}
+.pagess{
+    color: white;
+    font-size: 16pt;
+    font-family: Georgia, serif;
+}
+.parts{
+    color: white;
+    font-size: 16pt;
+    font-family: Georgia, serif;
+    margin: 100px 0 0 0;
+}
+.iconss{
+    height: 30px;
+    margin: 1px 5px 30px 5px ;
+}
