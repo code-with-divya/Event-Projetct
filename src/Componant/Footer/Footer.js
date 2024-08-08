@@ -40,10 +40,10 @@ export default function Footer(){
             </div>
             <div className="parts">
                 <h4>FOLLOW US</h4>
-                <a href="https://www.facebook.com/aniket.supekar.5458?mibextid=ZbWKwL"><img className="iconss" src={facebook}/></a>
-                <a href="https://www.linkedin.com/in/aniket-supekar-3545812b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img className="iconss" src={linked}/></a>
-                <a href="https://twitter.com/sanket_ghodke"><img className="iconss" src={twiter}/></a>
-                <a href="https://www.instagram.com/x.aniket_96/p/CV6wVWEIgnj/"><img className="iconss" src={instgram}/></a><br/>
+                <a href=""><img className="iconss" src={facebook}/></a>
+                <a href="www.linkedin.com/in/. gawade 41b4922b5"><img className="iconss" src={linked}/></a>
+                <a href=""><img className="iconss" src={twiter}/></a>
+                <a href="https://www.instagram.com/diuu_2603?igsh=MXhyaWFnMHFjNGpwaw=="><img className="iconss" src={instgram}/></a><br/>
                 <p>Stay Curious, Discover More...</p>
             </div>
             

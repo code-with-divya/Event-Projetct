@@ -11,21 +11,21 @@ import register from './Image/paste.png';
 function UnderlineExample() {
   return (
     <Nav variant="underline" defaultActiveKey="/home" className='navbars'>
-      
+
       <Nav.Item>
-        <Nav.Link href="/arohi"><p className='pagename'><img className='logo' src={logo}/></p></Nav.Link>
+        <Nav.Link href="/arohi"><p className='pagename'><img className='logo' src={logo} /></p></Nav.Link>
       </Nav.Item>
       <Nav.Item>
-        <Nav.Link href="/"><p className='pagename'><img className='hom' src={home}/></p></Nav.Link>
+        <Nav.Link href="/"><p className='pagename'><img className='hom' src={home} /></p></Nav.Link>
       </Nav.Item>
       <Nav.Item>
-        <Nav.Link href="/About"><p className='pagename'><img className='homm' src={about}/></p></Nav.Link>
+        <Nav.Link href="/About"><p className='pagename'><img className='homm' src={about} /></p></Nav.Link>
       </Nav.Item>
       <Nav.Item>
-      <Nav.Link href="/Past"><p className='pagename'><img className='hom' src={history}/></p></Nav.Link>
+        <Nav.Link href="/Past"><p className='pagename'><img className='hom' src={history} /></p></Nav.Link>
       </Nav.Item>
       <Nav.Item>
-      <Nav.Link href="/Ragistetion"><p className='pagename'><img className='hom' src={register}/></p></Nav.Link>
+        <Nav.Link href="/Ragistetion"><p className='pagename'><img className='hom' src={register} /></p></Nav.Link>
       </Nav.Item>
     </Nav>
   );

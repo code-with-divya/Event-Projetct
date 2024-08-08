@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-
 import Home from './View/Home/Home';
 import Arohi from './View/Arohi/Arohi';
 import About from './View/About/About Us';
